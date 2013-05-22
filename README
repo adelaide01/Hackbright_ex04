@@ -1,8 +1,10 @@
 Hackbright_ex04
+===============
+
 List Operations
 Python 2.7.1
 Fourth exercise from Hackbright Academy
-===============
+
 
 There are two files, list_operations.py and test_list_operations.py. 
 Run "python test_list_operations.py" at the CLI prompt. 
